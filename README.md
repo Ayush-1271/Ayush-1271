@@ -1,100 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=210&section=header&text=Ayush%20Ranjan&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Systems%20Tinkerer&descSize=18&descAlignY=60" width="100%" alt="Ayush Ranjan banner"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=820&lines=I+build+AI+that+admits+when+it+doesn't+know.;Multi-agent+memory+%C2%B7+RAG+%C2%B7+RL+%C2%B7+Vision+%C2%B7+Uncertainty;Ex-LLM+post-training+intern+%C2%B7+published+cryptography+researcher;Curious+first.+Then+I+build+it%2C+break+it%2C+and+measure+it.)](https://git.io/typing-svg)
-
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Ayush+Ranjan+%F0%9F%91%8B;I+build+AI+that+admits+when+it+doesn't+know.;Agents+%C2%B7+RAG+%C2%B7+RL+%C2%B7+Vision+%C2%B7+Uncertainty;LLM+post-training+%C2%B7+published+cryptography+research)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayush-ranjan-1b0a47300)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=githubpages&logoColor=white)](https://ayush-1271.github.io/)
-[![Paper](https://img.shields.io/badge/Published_Paper-00C853?style=for-the-badge&logo=readthedocs&logoColor=white)](https://iads.site/a-new-approach-for-image-security-enhancement-using-ternary-logic-linear-feedback-shift-register-for-cryptographic-applications/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushranjan1271@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ayush_Ranjan12)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushranjan1271@gmail.com)
+[![Paper](https://img.shields.io/badge/%F0%9F%93%84_Published_Paper-00C853?style=for-the-badge)](https://iads.site/a-new-approach-for-image-security-enhancement-using-ternary-logic-linear-feedback-shift-register-for-cryptographic-applications/)
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-FF5722?style=for-the-badge)](https://ayush-1271.github.io/)
 
 [![Profile Views](https://hits.sh/github.com/Ayush-1271.svg?style=flat-square&label=Profile%20Views&color=58A6FF)](https://hits.sh/github.com/Ayush-1271/)
 
 </div>
 
-<br/>
-
-<table align="center">
-<tr>
-<td align="center"><b>🎓 Integrated M.Tech</b><br/>Computational & Data Science<br/>VIT Bhopal</td>
-<td align="center"><b>🤖 LLM Post-Training</b><br/>Intern @ <a href="https://ethara.ai">Ethara.ai</a><br/>(completed)</td>
-<td align="center"><b>📄 Published</b><br/>Ternary Logic LFSR<br/>for image cryptography</td>
-<td align="center"><b>🔐 Certified</b><br/>Google IT Support<br/>Professional</td>
-</tr>
-</table>
-
 ---
 
-## 📈 Scoreboard
+### 🧠 Agents & LLM Systems
 
-<table align="center">
-<tr>
-<td align="center"><h3>500 / 500</h3>CartPole (PPO)<br/>perfect score</td>
-<td align="center"><h3>~251</h3>LunarLander (PPO)<br/>solved at 200</td>
-<td align="center"><h3>96.98%</h3>Lung histopathology CNN<br/>0.9963 AUC</td>
-<td align="center"><h3>7 agents</h3>RAG pipeline<br/>5-provider LLM failover</td>
-</tr>
-</table>
-
----
-
-## 🚀 Flagship Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 [NoteMind](https://github.com/Ayush-1271/NoteMind)
-**Graph memory for multi-agent AI**
-
-Every agent framework gives each agent an isolated context window, so token cost explodes as swarms grow. NoteMind replaces that with a **persistent semantic knowledge graph**: agents write atomic Markdown notes, retrieve only the relevant slice, and you watch the graph grow live.
-
-`Gemini 2.5` `FastAPI` `WebSockets` `ChromaDB` `MongoDB` `React Flow`
-
-</td>
-<td width="50%" valign="top">
-
-### 📄 [RAG PDF Chat](https://github.com/Ayush-1271/rag-pdf-chat) · [Live demo](https://rag-pdf-chat-seven.vercel.app/)
-**Chat with a PDF, with page-level citations**
-
-A **7-agent answer pipeline** (extract → analyze → preprocess → optimize → synthesize → validate → assemble), a **FAISS index per session**, **SSE token streaming**, and **automatic failover** across OpenRouter, Groq, Gemini, Hugging Face and OpenAI.
-
-`React` `TypeScript` `FastAPI` `LangChain` `FAISS`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 [MarketLens](https://github.com/Ayush-1271/MarketLens)
-**Market analysis that admits when it doesn't know**
-
-Not a trading bot. A **CNN + Transformer** model outputs **P10 / P50 / P90 bands**, classifies volatility regimes, **rejects unreliable assets**, and returns `NaN` instead of a fabricated metric. Stress-tested on the COVID-19 crash.
-
-`CNN + Transformer` `Probabilistic forecasting` `Streamlit`
-
-</td>
-<td width="50%" valign="top">
-
-### 📚 Novel Vault · 🔒 *private repository*
-**My passion project. Built because I wanted it to exist.**
-
-A modular web-novel **aggregation, caching, download and document-generation platform**: plugin-based source adapters and export formats, concurrent cross-source search, a resumable background pipeline, browser-driven login, and PDF / EPUB / TXT output.
-
-`FastAPI` `SQLAlchemy` `Selenium` `BeautifulSoup` `fpdf2` `EbookLib` `pytest`
-
-</td>
-</tr>
-</table>
-
-<details>
-<summary><b>🔎 Under the hood: how NoteMind agents share memory</b></summary>
-
-<br/>
+| | |
+|---|---|
+| **[🧠 NoteMind](https://github.com/Ayush-1271/NoteMind)** — `Multi-Agent AI · Graph Memory`<br>LangChain, AutoGen and CrewAI agents each live in an isolated context window, so token costs explode as swarms grow. NoteMind gives a 4-agent swarm (PM → Frontend → Backend → QA, **Gemini 2.5**) a **persistent semantic knowledge graph** instead. Agents write atomic Markdown notes, indexed in **ChromaDB + MongoDB**, and retrieve only the relevant slice. Live graph visualization in **React Flow** over **FastAPI WebSockets**. | **[📄 RAG PDF Chat](https://github.com/Ayush-1271/rag-pdf-chat)** — `Full-Stack RAG` · [**Live demo**](https://rag-pdf-chat-seven.vercel.app/)<br>Ask a PDF questions and get answers grounded in the document with **page-level citations**. A **7-agent pipeline** (extract → analyze → preprocess → optimize → synthesize → validate → assemble), **FAISS** per-session indexes, **SSE token streaming**, and **automatic failover** across OpenRouter, Groq, Gemini, Hugging Face and OpenAI. React + TypeScript + FastAPI + LangChain. |
+| **[🔍 MangaLens](https://github.com/Ayush-1271/MangaLens)** — `Multimodal · Chrome Extension`<br>Google Translate skips text inside images, and the story in manga lives in speech bubbles. MangaLens uses **Gemini Vision** to detect text in panels, translate it into 18 languages, and **redraw it in place**. It keeps a **translation memory** so character names stay consistent across pages. The README lists its limits honestly, too. | **[📋 AI Resume Analyzer](https://github.com/Ayush-1271/AI_Resume_Analyzer)** — `NLP`<br>Scores a resume against a job description with a **3-signal hybrid** (TF-IDF + `all-MiniLM-L6-v2` embeddings + skill overlap), finds missing skills against a 10k+ skill vocabulary, ranks jobs, and runs on **OpenVINO** so no CUDA is needed. Streamlit UI included. |
 
 ```mermaid
 flowchart LR
@@ -111,12 +36,44 @@ flowchart LR
     G -.semantic retrieval.-> QA
 ```
 
-</details>
+---
 
-<details>
-<summary><b>🔎 Under the hood: how Novel Vault downloads a book</b></summary>
+### 🎯 Reasoning Under Uncertainty & Reinforcement Learning
 
-<br/>
+| | |
+|---|---|
+| **[📈 MarketLens](https://github.com/Ayush-1271/MarketLens)** — `Probabilistic ML · RAPID framework`<br>**Not** a trading bot. A regime-aware system that outputs **P10 / P50 / P90 bands** instead of point predictions, classifies volatility regimes with a **CNN + Transformer** model, **rejects assets with unreliable data**, and returns `NaN` rather than a fabricated metric. Stress-tested on the COVID-19 crash. Streamlit dashboard included. | **[🕹️ PPO Agents + Live Demo](https://github.com/Ayush-1271/rl-demo-web)** — `Reinforcement Learning`<br>**[CartPole](https://github.com/Ayush-1271/cartpole-ppo-rl)**: perfect **500/500**. **[LunarLander](https://github.com/Ayush-1271/lunarlander-ppo-rl)**: mean **~251** (solved is 200; a random agent scores about -178). The trained policies are exported to **pure NumPy weights** and verified for 100% action agreement with Stable-Baselines3, so the **[Flask web demo](https://github.com/Ayush-1271/rl-demo-web)** runs live episodes without PyTorch. |
+
+> 🔐 **[Published research →](https://iads.site/a-new-approach-for-image-security-enhancement-using-ternary-logic-linear-feedback-shift-register-for-cryptographic-applications/)** Ternary Logic LFSR for cryptographic S-box design in image security, evaluated with NPCR, UACI and entropy analysis.
+
+---
+
+### 👁️ Vision & Classical ML (built from the math up)
+
+| Project | What it does | Result |
+|---|---|---|
+| **[🫁 Cancer Detection CNN](https://github.com/Ayush-1271/cancer-detection-cnn)** | 5-block deep CNN classifying lung histopathology (adenocarcinoma, squamous cell, normal) on 15,000 images | **96.98%** accuracy · **0.9963** AUC |
+| **[🙂 Face Recognition CNN](https://github.com/Ayush-1271/face-recognition-cnn)** | 15-class face recognition on LFW with a custom deep CNN | **86.23%** val accuracy |
+| **[🎬 Movie Recommender](https://github.com/Ayush-1271/Movie-Recommendation-System)** | Collaborative filtering with **Truncated SVD implemented from scratch** (pandas, NumPy, SciPy; no recsys libraries) on MovieLens, a matrix that is 98.3% empty | Top-5 picks per user |
+| **[🎓 TeachAI](https://github.com/Ayush-1271/TeachAI)** | Anti-proxy attendance using **face recognition + GPS validation** | Built for real classrooms |
+
+---
+
+### ⭐ Passion Project: Novel Vault
+
+> *Not for a resume, not for a class. I built it because I wanted it to exist.*
+
+**A modular web-novel aggregation, caching, download and document-generation platform.** Search several novel sites at once, cache chapters on disk, download in the background, survive crashes, and export clean **PDF / EPUB / TXT** books.
+
+| | |
+|---|---|
+| **🧩 Plugin architecture** | `BaseSource` for sites, `OutputFormat` for exports. Plugins self-register via decorators and are auto-discovered, so new sites or formats never touch the core workflow. |
+| **🌐 4 source adapters** | FanMTL, NovelFire (Requests + BeautifulSoup) · TomatoMTL, WTR-Lab (Selenium automation). |
+| **🔎 Concurrent cross-source search** | Dispatched to every adapter in parallel, normalized, exact-title filtered. |
+| **⚙️ Resumable pipeline** | `pending → running → completed / failed / cancelled`. Cancel, retry, resume. Cached chapters are never fetched twice. |
+| **🔐 Browser-driven login** | Sign in via a real Chrome window; cookies are stored, validated and expiry-checked before each job. |
+| **🛡️ Reliability** | HTTP retry/backoff, block detection, fresh-session Selenium retries, orphaned-job recovery after restarts, graceful browser cleanup. |
+| **🧪 Tested** | Unit, integration and contract tests across adapters, outputs, lifecycle, APIs and search. |
 
 ```mermaid
 flowchart LR
@@ -131,92 +88,27 @@ flowchart LR
     H --> I[Progress + status]
 ```
 
-| Capability | Detail |
-|---|---|
-| Plugin architecture | `BaseSource` for sites and `OutputFormat` for exports; plugins self-register and are auto-discovered |
-| Source adapters | FanMTL, NovelFire (Requests + BeautifulSoup) · TomatoMTL, WTR-Lab (Selenium) |
-| Search | Concurrent across all adapters, normalized, exact-title filtered |
-| Download lifecycle | pending → running → completed / failed / cancelled, with retry, resume and cancel |
-| Reliability | HTTP backoff, block detection, fresh-session Selenium retries, orphaned-job recovery, disk-backed chapter cache |
+`Python` `FastAPI` `SQLAlchemy 2.0` `SQLite` `Selenium` `BeautifulSoup4` `Jinja2` `Vanilla JS` `fpdf2` `EbookLib` `pytest`
 
-</details>
+🔒 **Private repository**
 
 ---
 
-## 🧭 How I Work
+### 🔭 More Explorations
 
-| | |
+| Repo | What I was curious about |
 |---|---|
-| **🎯 Honest evaluation** | MarketLens returns `NaN` instead of a made-up score. MangaLens documents exactly what it can't do. I'd rather show a limit than hide it. |
-| **🧠 Memory beats brute force** | NoteMind, RAG PDF Chat and Novel Vault all avoid redoing work: retrieve the relevant slice, cache what's already done. |
-| **🌐 Ship it so people can touch it** | PPO agents run live in a browser demo, a RAG app is deployed, and models are exported to lightweight NumPy so demos stay fast on free tiers. |
+| **[⚗️ ChemicalEquipmentVisualizer](https://github.com/Ayush-1271/ChemicalEquipmentVisualizer)** | Can one **Django REST API** be the single source of truth for a **React web app and a PyQt5 desktop app** at once? |
+| **[🩺 Diabetes Progression API](https://github.com/Ayush-1271/diabetes-risk-predictor-docker)** | A Flask ML API shipped in **Docker**, using only the 5 inputs a person could actually know from a checkup. |
+| **[💬 Social Media Sentiment Analysis](https://github.com/Ayush-1271/Social-Media-Sentiment-Analysis)** | How far do classic NLP + ML classifiers go on messy social text? |
+| **[📚 Bin2Book Novel Scraper](https://github.com/Ayush-1271/Bin2Book-Novel-Scraper)** | A multi-threaded scraper with a GUI that turns web novels into structured PDFs. |
+| **[🌊 waipy (fork)](https://github.com/Ayush-1271/waipy)** | Wavelet analysis: continuous wavelet transform, significance tests, cross-wavelet analysis. |
 
 ---
 
-## 🧪 The Lab
+### 🛠️ Stack
 
-<details open>
-<summary><b>🤖 More AI & LLM projects</b></summary>
-
-<br/>
-
-| Project | What it does |
-|---|---|
-| **[🔍 MangaLens](https://github.com/Ayush-1271/MangaLens)** | Chrome extension. **Gemini Vision** finds text inside manga panels, translates it into 18 languages, and redraws it in place, with a **translation memory** to keep character names consistent. |
-| **[📋 AI Resume Analyzer](https://github.com/Ayush-1271/AI_Resume_Analyzer)** | **3-signal hybrid** match score (TF-IDF + MiniLM embeddings + skill overlap), skill-gap analysis against a 10k+ vocabulary, job ranking, and OpenVINO inference (no CUDA needed). |
-| **[💬 Social Media Sentiment Analysis](https://github.com/Ayush-1271/Social-Media-Sentiment-Analysis)** | NLP + classical ML classifiers on messy social text. |
-
-</details>
-
-<details>
-<summary><b>🕹️ Reinforcement learning</b></summary>
-
-<br/>
-
-| Project | Result |
-|---|---|
-| **[CartPole PPO](https://github.com/Ayush-1271/cartpole-ppo-rl)** | Perfect **500/500** every evaluation episode (random agent: ~27) |
-| **[LunarLander PPO](https://github.com/Ayush-1271/lunarlander-ppo-rl)** | Mean **~251**, solved threshold 200 (random agent: ~-178), ~1.11M timesteps |
-| **[RL Demo Web](https://github.com/Ayush-1271/rl-demo-web)** | Flask app that runs live episodes of both agents. Policies are exported to **pure NumPy** and verified for **100% action agreement** with Stable-Baselines3. |
-
-</details>
-
-<details>
-<summary><b>👁️ Vision & classical ML</b></summary>
-
-<br/>
-
-| Project | Result |
-|---|---|
-| **[🫁 Cancer Detection CNN](https://github.com/Ayush-1271/cancer-detection-cnn)** | **96.98%** accuracy · **0.9963** AUC on 15,000 lung histopathology images |
-| **[🙂 Face Recognition CNN](https://github.com/Ayush-1271/face-recognition-cnn)** | **86.23%** validation accuracy, 15 classes on LFW |
-| **[🎬 Movie Recommender](https://github.com/Ayush-1271/Movie-Recommendation-System)** | Collaborative filtering with **Truncated SVD from scratch** on a 98.3%-empty matrix |
-| **[🎓 TeachAI](https://github.com/Ayush-1271/TeachAI)** | Anti-proxy attendance: **face recognition + GPS validation** |
-| **[🩺 Diabetes Progression API](https://github.com/Ayush-1271/diabetes-risk-predictor-docker)** | Flask ML API deployed with **Docker**, using only inputs a person can actually know |
-
-</details>
-
-<details>
-<summary><b>🔧 Full-stack & tooling experiments</b></summary>
-
-<br/>
-
-| Project | What it does |
-|---|---|
-| **[⚗️ ChemicalEquipmentVisualizer](https://github.com/Ayush-1271/ChemicalEquipmentVisualizer)** | One **Django REST API** powering both a **React web app** and a **PyQt5 desktop app** |
-| **[📚 Bin2Book Novel Scraper](https://github.com/Ayush-1271/Bin2Book-Novel-Scraper)** | Multi-threaded scraper with a GUI that turns web novels into structured PDFs |
-| **[🌊 waipy (fork)](https://github.com/Ayush-1271/waipy)** | Wavelet analysis: CWT, significance tests, cross-wavelet analysis |
-
-</details>
-
-> 🔐 **Research:** [Ternary Logic LFSR for cryptographic S-box design](https://iads.site/a-new-approach-for-image-security-enhancement-using-ternary-logic-linear-feedback-shift-register-for-cryptographic-applications/), evaluated with NPCR, UACI and entropy analysis.
-
----
-
-## 🛠️ Toolbox
-
-<div align="center">
-
+**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -224,16 +116,18 @@ flowchart LR
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-<br/>
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/Stable--Baselines3-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Stable-Baselines3](https://img.shields.io/badge/Stable--Baselines3-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-<br/>
+
+**Backend, Data & Automation**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
@@ -241,35 +135,39 @@ flowchart LR
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-<br/>
+
+**Frontend & Tools**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</div>
+![Chrome Extension](https://img.shields.io/badge/Chrome_Extension-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 
 ---
 
-## 🎮 Off the Clock
+### 🎮 Side Quests
 
-- ⚔️ Competitive programming: [Codeforces](https://codeforces.com/profile/Ayush_Ranjan12) · 300+ problems solved on LeetCode
-- 📖 Web novels and manga are the reason **Novel Vault** and **MangaLens** exist
+- ⚔️ Competitive programming on [Codeforces](https://codeforces.com/profile/Ayush_Ranjan12) · 300+ problems solved on LeetCode
+- 📖 Web novels and manga are why **Novel Vault** and **MangaLens** exist
 - 🔐 Cryptography, from a published paper on ternary-logic LFSRs
 
-<br/>
+---
+
+### 📊 Stats
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Ayush-1271&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<br/>
+</div>
+
+---
+
+<div align="center">
 
 *Open to ML/NLP internships, research collaborations, and interesting hard problems.*
 
 **[📬 ayushranjan1271@gmail.com](mailto:ayushranjan1271@gmail.com)**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=110&section=footer" width="100%" alt=""/>
 
 </div>
