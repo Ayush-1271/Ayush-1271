@@ -14,31 +14,6 @@
 
 ---
 
-### 🧬 `whoami`
-
-```python
-class Ayush:
-    alias       = "CipherMoth"
-    role        = "AI/ML Engineer · Researcher"
-    studying    = "Integrated M.Tech, Computational & Data Science @ VIT Bhopal"
-    worked_on   = "LLM post-training @ Ethara.ai (how models reason and stay aligned)"
-    published   = "Ternary Logic LFSR for cryptographic image security"
-    certified   = "Google IT Support Professional"
-    obsessions  = ["agent memory", "RAG", "reinforcement learning",
-                   "uncertainty quantification", "multimodal AI", "cryptography"]
-    side_quests = ["web novels", "manga", "competitive programming"]
-    philosophy  = "Build systems that reason honestly."
-
-    def free_time(self):
-        while True:
-            self.read_a_paper()
-            self.build_a_prototype()
-            self.break_it_on_purpose()
-            self.measure_honestly()
-```
-
----
-
 ### 🧠 Agents & LLM Systems
 
 | | |
@@ -115,7 +90,7 @@ flowchart LR
 
 `Python` `FastAPI` `SQLAlchemy 2.0` `SQLite` `Selenium` `BeautifulSoup4` `Jinja2` `Vanilla JS` `fpdf2` `EbookLib` `pytest`
 
-🔗 **[Ayush-1271/Novel-Vault](https://github.com/Ayush-1271/Novel-Vault)**
+🔒 **Private repository**
 
 ---
 
