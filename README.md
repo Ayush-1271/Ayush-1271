@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=210&section=header&text=Ayush%20Ranjan&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Systems%20Tinkerer&descSize=18&descAlignY=60" width="100%" alt="Ayush Ranjan banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=210&section=header&text=Ayush%20Ranjan&fontSize=58&fontColor=FFFFFF&fontAlignY=38&desc=Applied%20AI%20Builder%20%C2%B7%20Researcher%20%C2%B7%20Systems%20Tinkerer&descSize=18&descAlignY=60" width="100%" alt="Ayush Ranjan banner"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=58A6FF&center=true&vCenter=true&width=820&lines=I+build+AI+that+admits+when+it+doesn't+know.;Multi-agent+memory+%C2%B7+RAG+%C2%B7+RL+%C2%B7+Vision+%C2%B7+Uncertainty;Ex-LLM+post-training+intern+%C2%B7+published+cryptography+researcher;Curious+first.+Then+I+build+it%2C+break+it%2C+and+measure+it.)](https://git.io/typing-svg)
 
@@ -26,6 +26,8 @@
 <td align="center"><b>Certified</b><br/>Google IT Support<br/>Professional</td>
 </tr>
 </table>
+
+> **My engineering north star:** make AI answers inspectable, uncertainty visible, and tools useful beyond the demo.
 
 ---
 
@@ -209,7 +211,7 @@ flowchart LR
 
 </details>
 
-> **Research:** [Ternary Logic LFSR for cryptographic S-box design](https://iads.site/a-new-approach-for-image-security-enhancement-using-ternary-logic-linear-feedback-shift-register-for-cryptographic-applications/), evaluated with NPCR, UACI and entropy analysis.
+> **Research:** [Published ternary-logic LFSR research on image encryption](https://iads.site/a-new-approach-for-image-security-enhancement-using-ternary-logic-linear-feedback-shift-register-for-cryptographic-applications/), evaluated with NPCR, UACI and entropy analysis.
 
 ---
 
@@ -254,7 +256,7 @@ flowchart LR
 
 ## Off the Clock
 
-- Competitive programming: [Codeforces](https://codeforces.com/profile/Ayush_Ranjan12) · 300+ problems solved on LeetCode
+- Competitive programming: [Codeforces](https://codeforces.com/profile/Ayush_Ranjan12) · LeetCode
 - Web novels and manga are the reason **Novel Vault** and **MangaLens** exist
 - Cryptography, from a published paper on ternary-logic LFSRs
 
