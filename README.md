@@ -145,13 +145,14 @@ flowchart LR
 
 ---
 
-## How I Work
+## 🧭 The Blueprint
 
-| | |
-|---|---|
-| **Honest evaluation** | MarketLens returns `NaN` instead of a made-up score. MangaLens documents exactly what it can't do. I'd rather show a limit than hide it. |
-| **Memory beats brute force** | NoteMind, RAG PDF Chat and Novel Vault all avoid redoing work: retrieve the relevant slice, cache what's already done. |
-| **Ship it so people can touch it** | PPO agents run live in a browser demo, a RAG app is deployed, and models are exported to lightweight NumPy so demos stay fast on free tiers. |
+> I like building AI systems with receipts: evidence for an answer, uncertainty when it matters, and a tool people can actually use.
+
+- 🔎 **Show the evidence.** RAG PDF Chat links answers back to document pages; my research work reports the metrics it evaluates.
+- 🧠 **Reuse what you've already learned.** NoteMind shares relevant memory; Novel Vault caches chapters and resumes download jobs.
+- 🛠️ **Build the whole loop.** I enjoy taking an idea through implementation, evaluation, and a working interface.
+- 🌱 **Keep learning by building.** Retrieval, reinforcement learning, computer vision, NLP, and applied cryptography show up across my projects.
 
 ---
 
