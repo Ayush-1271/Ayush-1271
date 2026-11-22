@@ -80,7 +80,7 @@ Not a trading bot. A **CNN + Transformer** model outputs **P10 / P50 / P90 bands
 </td>
 <td width="50%" valign="top">
 
-### Novel Vault · *private repository*
+### [Novel Vault](https://github.com/Ayush-1271/Novel-Vault)
 **My passion project. Built because I wanted it to exist.**
 
 A modular web-novel **aggregation, caching, download and document-generation platform**: plugin-based source adapters and export formats, concurrent cross-source search, a resumable background pipeline, browser-driven login, and PDF / EPUB / TXT output.
