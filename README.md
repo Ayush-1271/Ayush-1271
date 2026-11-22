@@ -257,7 +257,7 @@ flowchart LR
 
 ## Off the Clock
 
-- Competitive programming: [Codeforces](https://codeforces.com/profile/Ayush_Ranjan12) · LeetCode
+- **Problem-solving:** [Codeforces](https://codeforces.com/profile/Ayush_Ranjan12) · LeetCode, including a completed 50-day daily-practice challenge shared on [LinkedIn](https://linkedin.com/in/ayush-ranjan-1b0a47300).
 - Web novels and manga are the reason **Novel Vault** and **MangaLens** exist
 - Cryptography, from a published paper on ternary-logic LFSRs
 
